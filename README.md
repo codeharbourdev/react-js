@@ -26,7 +26,6 @@ I believe in **learning by doing**. By uploading my learning code and mini proje
 - HTML & CSS / Tailwind CSS
 - VS Code, Git & GitHub
 
-- 
 ## 🌟 Feel Free to Explore
 
 This repository is open for learning, collaboration, or feedback. You can fork it, clone it, or just browse around.
