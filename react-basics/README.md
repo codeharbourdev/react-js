@@ -1,12 +1,37 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 🚀 React Learning & Projects
 
-Currently, two official plugins are available:
+Welcome to my React repository! 👋
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This repo is a part of my **React learning journey**, where I’m building small to medium-scale projects while learning core concepts of React such as **JSX**, **Components**, **Props**, **State**, **Hooks**, and more.
 
-## Expanding the ESLint configuration
+## 📚 What You’ll Find Here
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 📒 **Concept Practice**: Hands-on practice for each React concept (like JSX, Props, State, Events, etc.)
+- 🛠️ **Mini Projects**: Simple projects built while learning (e.g. Counter App, To-Do List)
+- 🌱 **Personal Growth**: This repo shows how I’m growing as a frontend developer.
+
+## 🧠 Why I Created This
+
+I believe in **learning by doing**. By uploading my learning code and mini projects here:
+- I stay consistent and accountable.
+- I track my progress over time.
+- Others can learn or give feedback too.
+
+## 💻 Technologies Used
+
+- React (with functional components)
+- JavaScript (ES6+)
+- HTML & CSS / Tailwind CSS
+- VS Code, Git & GitHub
+
+
+## 🌟 Feel Free to Explore
+
+This repository is open for learning, collaboration, or feedback. You can fork it, clone it, or just browse around.
+
+---
+
+> ⚡ Keep coding. Keep improving. React is just the beginning!
+
