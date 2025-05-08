@@ -1,0 +1,30 @@
+.container {
+    background-color: white;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    border: 2px solid blueviolet;
+    border-radius: 8px;
+}    
+
+#user-img {
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    border: 2px solid black;
+}
+
+#user-title {
+    color: black;
+    font-weight: 500;
+    font-size: 16px;
+    text-align: center;
+}
+
+#user-desc {
+    color: black;
+    font-weight: 500;
+    font-size: 16px;
+    text-align: center;
+}
