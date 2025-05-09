@@ -1,4 +1,3 @@
-import React from "react"
 import './App.css'
 import Home from "./components/Home"
 import logo1 from "./assets/logo1.png"
@@ -35,4 +34,7 @@ function App() {
 }
 
 export default App
+
+
+
 
