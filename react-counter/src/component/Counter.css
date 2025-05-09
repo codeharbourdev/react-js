@@ -1,0 +1,39 @@
+.count-container {
+    height: 150px;
+    width: 300px;
+    color: white;
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    border: 3px solid blueviolet;
+    border-radius: 5px;
+    box-shadow: 0px 0px 3px blueviolet;
+}
+
+#count-text {
+    font-size: 30px;
+}
+
+#btn {
+    outline: none;
+    padding: 5px 50px;
+    font-size: 20px;
+    font-weight: 600;
+    text-shadow: 0px 0px 1px black;
+    background: none;
+    border: 2px solid blueviolet;
+    color: white;
+    border-radius: 25px;
+    cursor: pointer;
+    box-shadow: 0px 0px 3px blueviolet;
+    transition: background-color 0.5s ease-in-out;
+}
+
+#btn:hover {
+    background-color: blueviolet;
+}
+
+
