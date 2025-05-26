@@ -6,12 +6,8 @@ Welcome to my **React.js learning repository**! This repo contains all my practi
 
 ## 📂 Folder Structure
 
-- ### `react-*` (Example: `react-basics`, `react-hooks`, etc.)
+- ### `react-*` (Example: `react-basics`, `react-intermediate`, `react-advanced` etc.)
   These folders contain projects and exercises completed **during classes or tutorials**. They are focused on learning core concepts step-by-step, following structured lessons.
-
-- ### `react-*-personal` (Example: `react-basics-personal`, `react-todo-personal`, etc.)
-  These folders include projects that I have **built on my own** to apply the concepts learned from class. They reflect my **personal understanding, creativity, and experimentation**.
-
 ---
 
 ## 📘 Purpose
