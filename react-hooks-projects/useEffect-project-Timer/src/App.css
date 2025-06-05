@@ -1,0 +1,109 @@
+.parent {
+  height: 100vh;
+  width: 100%;
+  background-color: #0f111a;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-family: sans-serif;
+}
+
+h1 {
+  font-size: 50px;
+  margin-bottom: 80px;
+}
+
+.child {
+  display: flex;
+  background-color: black;
+  height: 300px;
+  width: 1000px;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  padding: 50px;
+  gap: 50px;
+  border: 5px solid blueviolet;
+  border-radius: 10px;
+  box-shadow: 0px 0px 5px blueviolet;
+}
+
+#hour  {
+  height: 100%;
+  width: 100%;
+  background-color: blueviolet;
+  border-radius: 5px;
+  box-shadow: 0px 0px 10px blueviolet;display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+#hour h1{
+  font-size: 100px;
+  margin: 0;
+}
+
+#hour h2 {
+  font-size: 30px;
+}
+
+#minute  {
+  height: 100%;
+  width: 100%;
+  background-color: blueviolet;
+  border-radius: 5px;
+  box-shadow: 0px 0px 10px blueviolet;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+#minute h1{
+  font-size: 100px;
+  margin: 0;
+}
+
+#minute h2 {
+  font-size: 30px;
+}
+
+#second  {
+  height: 100%;
+  width: 100%;
+  background-color: blueviolet;
+  border-radius: 5px;
+  box-shadow: 0px 0px 10px blueviolet;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+#second h1{
+  font-size: 100px;
+  margin: 0;
+}
+
+#second h2 {
+  font-size: 30px;
+}
+
+#period  {
+  height: 100%;
+  width: 100%;
+  background-color: blueviolet;
+  border-radius: 5px;
+  box-shadow: 0px 0px 10px blueviolet;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#period h1{
+  font-size: 80px;
+  margin: 0;
+}
