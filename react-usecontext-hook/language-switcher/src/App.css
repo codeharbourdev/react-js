@@ -1,0 +1,8 @@
+#parent {
+  height: 450px;
+  width: 450px;
+  background-color: #191927;
+  border: 3px solid blueviolet;
+  border-radius: 5px;
+  box-shadow: 0px 0px 3px blueviolet;
+}
